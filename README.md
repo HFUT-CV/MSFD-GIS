@@ -3,13 +3,13 @@
 
 This repository contains the code for our paper.
 
-## News
+### News
 
 The code is coming soon.
 
 ## Installation
 
-# Requirements
+### Requirements
 Python 3.7
 Pytorch 1.0.0
 opencv
